@@ -1,4 +1,4 @@
-﻿namespace Askowl.Ficl {
+namespace Askowl.Ficl {
   using System;
 
   /// <a href=""></a> <inheritdoc cref="Cache.Boxed{T}" />
